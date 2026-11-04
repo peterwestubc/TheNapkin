@@ -1,1 +1,18 @@
-Here is the random post
+####################
+#### Here is the random post (Title)
+####################
+
+########
+#### Here is a section
+########
+
+Oh how I love The Napkin
+
+
+########
+#### Here is another section
+########
+
+Maybe I do not love the Napkin.
+
+Maybe I think it is awful.
